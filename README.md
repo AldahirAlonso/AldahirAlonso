@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 💻 I’m currently working with Java, Spring Boot, and MySQL to build robust backend applications.<br>- 🌐 I develop responsive and accessible interfaces using HTML, CSS, Tailwind CSS, and JavaScript.<br>- 🛠️ I build real-world projects using Git, GitHub, and Docker for version control and containerization.<br>- 🚀 Constantly improving my skills in backend architectures, clean code, and RESTful APIs.<br>- 🐱 I love cats — I live with four of them!<br>- 🎮 I'm passionate about shooter and RPG video games.</p>
+<p align="left">- 💻 I’m currently working with Spring Boot, and NestJS to build robust backend applications.<br>- 🌐 I develop responsive and accessible interfaces using HTML, TailwindCSS, and JavaScript.<br>- 🛠️ I build real-world projects using Git, GitHub, and Docker for version control and containerization.<br>- 🚀 Constantly improving my skills in backend architectures, clean code, and RESTful APIs.<br>- 🐱 I love cats — I live with four of them!<br>- 🎮 I'm passionate about shooter and RPG video games.</p>
 
 ###
 
@@ -44,8 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="44" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="44" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="html5 logo"  />
   <img width="12" />
