@@ -26,7 +26,17 @@
 
 ###
 
-<p align="left">- 💻 I’m currently working with Spring Boot, and NestJS to build robust backend applications.<br>- 🌐 I develop responsive and accessible interfaces using HTML, TailwindCSS, and JavaScript.<br>- 🛠️ I build real-world projects using Git, GitHub, and Docker for version control and containerization.<br>- 🚀 Constantly improving my skills in backend architectures, clean code, and RESTful APIs.<br>- 🐱 I love cats — I live with four of them!<br>- 🎮 I'm passionate about shooter and RPG video games.</p>
+💻 Code: Java (Spring Boot) | Python | NestJS | JS
+
+🛠️ Tools: Docker | Git/GitHub | WSL | n8n | MySQL | MongoDB
+
+🚀 Focus: Backend architectures | RESTful APIs
+
+📚 Learning: AWS Cloud Practitioner
+
+🐱 Life: I live with 4 cats.
+
+🎮 Hobbies: Passionate about PC gaming (RPGs & Shooters) and photography 📸
 
 ###
 
