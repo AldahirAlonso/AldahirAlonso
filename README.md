@@ -26,17 +26,17 @@
 
 ###
 
-💻 Code: Java (Spring Boot) | Python | NestJS | JS
+💻 Code: Java (Spring Boot) | Python | JS | NestJS
 
 🛠️ Tools: Docker | Git/GitHub | WSL | n8n | MySQL | MongoDB
 
 🚀 Focus: Backend architectures | RESTful APIs
 
-📚 Learning: AWS Cloud Practitioner
+📚 Learning: AWS Cloud Practitioner.
 
 🐱 Life: I live with 4 cats.
 
-🎮 Hobbies: Passionate about PC gaming (RPGs & Shooters) and photography 📸
+🎮 Hobbies: Passionate about PC gaming (RPGs & Shooters) and photography. 📸
 
 ###
 
@@ -55,7 +55,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="44" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="44" alt="fast api" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="44" alt="pandas logo"  />
   <img width="12" />
@@ -73,27 +73,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="44" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="44" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="44" alt="playwright" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="44" alt="astro logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="44" alt="aws" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="44"         alt="aws" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="44" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="44" alt="github logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="44" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" height="44" alt="zsh logo"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="44" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="44" alt="playwright" />
   <img width="12" />
 </div>
 
