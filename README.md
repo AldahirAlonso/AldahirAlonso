@@ -26,19 +26,17 @@
 
 ###
 
-💻 Code: Java (Spring Boot) | JS | NodeJS | Python
+💻 Code: Java (Spring Boot) | React | NodeJS | Python
 
-🛠️ Tools: Docker | Git/GitHub | WSL | n8n | MySQL | MongoDB
+🛠️ Tools: Git/GitHub | WSL | MySQL | MongoDB | Docker | n8n
 
-🖥️ OS: Windows | Ubuntu
+🖥️ OS: Windows | Fedora
 
-🚀 Focus: Backend architectures | RESTful APIs
-
-📚 Learning: AWS Cloud Practitioner.
+🚀 Focus: Building backend and frontend projects.
 
 🐱 Life: I live with 4 cats.
 
-🎮 Hobbies: Passionate about PC gaming (RPGs & Shooters) and photography. 📸
+🎮 Hobbies: Passionate about PC gaming and photography. 📸
 
 ###
 
